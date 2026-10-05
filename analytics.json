@@ -1,0 +1,180 @@
+{
+  "events": [
+    {
+      "id": "8e8c0235-b4f8-4679-a005-545630b21a49",
+      "event": "page_view",
+      "productId": null,
+      "visitorId": "1d3cedd2-bd46-4c7a-8790-90866702fbe1",
+      "path": "/",
+      "createdAt": "2026-10-05T00:54:26.470Z"
+    },
+    {
+      "id": "216868e7-6ed8-4a22-9756-f46ec1b267bf",
+      "event": "page_view",
+      "productId": null,
+      "visitorId": "1d3cedd2-bd46-4c7a-8790-90866702fbe1",
+      "path": "/",
+      "createdAt": "2026-10-05T00:54:26.827Z"
+    },
+    {
+      "id": "4cb92400-b353-42f3-9d3c-9dc011d1445a",
+      "event": "page_view",
+      "productId": null,
+      "visitorId": "1d3cedd2-bd46-4c7a-8790-90866702fbe1",
+      "path": "/",
+      "createdAt": "2026-10-05T00:57:45.434Z"
+    },
+    {
+      "id": "847e51f5-3ee5-475f-aee6-ff02939a071a",
+      "event": "product_view",
+      "productId": "daily-002",
+      "visitorId": "1d3cedd2-bd46-4c7a-8790-90866702fbe1",
+      "path": "/",
+      "createdAt": "2026-10-05T00:58:05.789Z"
+    },
+    {
+      "id": "28ba3537-c1ba-465a-8606-42e11282e861",
+      "event": "product_view",
+      "productId": "girl",
+      "visitorId": "1d3cedd2-bd46-4c7a-8790-90866702fbe1",
+      "path": "/",
+      "createdAt": "2026-10-05T00:58:12.241Z"
+    },
+    {
+      "id": "93a59990-0908-46b0-9a66-f5bb8cf3f22b",
+      "event": "product_view",
+      "productId": "daily-001",
+      "visitorId": "1d3cedd2-bd46-4c7a-8790-90866702fbe1",
+      "path": "/",
+      "createdAt": "2026-10-05T00:58:27.061Z"
+    },
+    {
+      "id": "138809ed-8fa9-4da1-9461-151fed3046d1",
+      "event": "product_view",
+      "productId": "daily-002",
+      "visitorId": "1d3cedd2-bd46-4c7a-8790-90866702fbe1",
+      "path": "/",
+      "createdAt": "2026-10-05T00:58:27.458Z"
+    },
+    {
+      "id": "c79b9a69-f24a-4c48-ae90-487248614b27",
+      "event": "product_view",
+      "productId": "girl",
+      "visitorId": "1d3cedd2-bd46-4c7a-8790-90866702fbe1",
+      "path": "/",
+      "createdAt": "2026-10-05T00:58:27.719Z"
+    },
+    {
+      "id": "72aa7e52-493c-4a72-b831-af43346e846f",
+      "event": "product_view",
+      "productId": "girl",
+      "visitorId": "1d3cedd2-bd46-4c7a-8790-90866702fbe1",
+      "path": "/",
+      "createdAt": "2026-10-05T00:58:38.505Z"
+    },
+    {
+      "id": "1f1f1e19-9971-46a9-bb48-eb8e86de9af2",
+      "event": "product_view",
+      "productId": "daily-002",
+      "visitorId": "1d3cedd2-bd46-4c7a-8790-90866702fbe1",
+      "path": "/",
+      "createdAt": "2026-10-05T00:58:38.556Z"
+    },
+    {
+      "id": "205cba35-d7ca-405b-b02a-80c1db700009",
+      "event": "product_view",
+      "productId": "daily-001",
+      "visitorId": "1d3cedd2-bd46-4c7a-8790-90866702fbe1",
+      "path": "/",
+      "createdAt": "2026-10-05T00:58:38.609Z"
+    },
+    {
+      "id": "c2e8f299-ab51-44c3-b803-e7d9ab0cc7ae",
+      "event": "product_view",
+      "productId": "pdf-1791161858576-f671a5",
+      "visitorId": "1d3cedd2-bd46-4c7a-8790-90866702fbe1",
+      "path": "/",
+      "createdAt": "2026-10-05T00:58:38.662Z"
+    },
+    {
+      "id": "29b1d46e-951f-4df5-a48b-bf380a69de64",
+      "event": "product_view",
+      "productId": "daily-001",
+      "visitorId": "1d3cedd2-bd46-4c7a-8790-90866702fbe1",
+      "path": "/",
+      "createdAt": "2026-10-05T00:59:12.037Z"
+    },
+    {
+      "id": "57a19899-2062-4a11-9d34-c04952f7eb83",
+      "event": "product_view",
+      "productId": "pdf-1791161858576-f671a5",
+      "visitorId": "1d3cedd2-bd46-4c7a-8790-90866702fbe1",
+      "path": "/",
+      "createdAt": "2026-10-05T00:59:12.380Z"
+    },
+    {
+      "id": "9c61e169-b355-4e96-a69a-f62a4f3a437c",
+      "event": "product_click",
+      "productId": "pdf-1791161858576-f671a5",
+      "visitorId": "1d3cedd2-bd46-4c7a-8790-90866702fbe1",
+      "path": "/",
+      "createdAt": "2026-10-05T00:59:13.276Z"
+    },
+    {
+      "id": "d967c47c-4f4a-4718-8e90-ed10e4d2a235",
+      "event": "checkout_start",
+      "productId": "pdf-1791161858576-f671a5",
+      "visitorId": "1d3cedd2-bd46-4c7a-8790-90866702fbe1",
+      "path": "/",
+      "createdAt": "2026-10-05T00:59:17.850Z"
+    },
+    {
+      "id": "0d430101-855f-4d3f-bb5e-32cd50372580",
+      "event": "purchase",
+      "productId": "pdf-1791161858576-f671a5",
+      "visitorId": "1d3cedd2-bd46-4c7a-8790-90866702fbe1",
+      "path": "/",
+      "createdAt": "2026-10-05T00:59:44.145Z"
+    },
+    {
+      "id": "7d849194-6aed-43bf-bc7b-eeb6a57f42fe",
+      "event": "page_view",
+      "productId": "ai-life-income-playbook",
+      "visitorId": "1d3cedd2-bd46-4c7a-8790-90866702fbe1",
+      "path": "/product/ai-life-income-playbook",
+      "createdAt": "2026-10-05T01:08:53.309Z"
+    },
+    {
+      "id": "bb1ae8d7-431c-4451-b267-9117769f491a",
+      "event": "product_view",
+      "productId": "ai-life-income-playbook",
+      "visitorId": "1d3cedd2-bd46-4c7a-8790-90866702fbe1",
+      "path": "/product/ai-life-income-playbook",
+      "createdAt": "2026-10-05T01:08:53.319Z"
+    },
+    {
+      "id": "32562cb5-ec5f-4c2a-a378-90e1726982f8",
+      "event": "page_view",
+      "productId": null,
+      "visitorId": "1d3cedd2-bd46-4c7a-8790-90866702fbe1",
+      "path": "/",
+      "createdAt": "2026-10-05T01:17:19.054Z"
+    },
+    {
+      "id": "ba4c3117-a200-40e9-b975-8653fbc24c5c",
+      "event": "page_view",
+      "productId": null,
+      "visitorId": "1d3cedd2-bd46-4c7a-8790-90866702fbe1",
+      "path": "/",
+      "createdAt": "2026-10-05T01:17:21.065Z"
+    },
+    {
+      "id": "c87aa22b-bbbf-4170-b7e6-88da0af13812",
+      "event": "page_view",
+      "productId": null,
+      "visitorId": "1d3cedd2-bd46-4c7a-8790-90866702fbe1",
+      "path": "/",
+      "createdAt": "2026-10-05T01:23:52.597Z"
+    }
+  ]
+}

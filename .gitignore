@@ -1,0 +1,7 @@
+node_modules/
+.env
+.env.*
+!.env.example
+private-products/
+product-images/
+*.log
